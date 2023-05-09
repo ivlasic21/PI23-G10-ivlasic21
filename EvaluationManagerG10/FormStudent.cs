@@ -8,12 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EvaluationManagerG10
-{
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
+namespace EvaluationManagerG10 {
+    public partial class FormStudent : Form {
+        public FormStudent() {
             InitializeComponent();
         }
     }

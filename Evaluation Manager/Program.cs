@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EvaluationManagerG10
+namespace Evaluation_Manager
 {
     internal static class Program
     {
